@@ -10,7 +10,7 @@ Despite the Lispy syntax of S-ASM, it still lacks many key features that define 
  * Garbage collection
  * Lambda functions
 
-In fact, S-ASM stands for S-expression ASsemBly.
+In fact, S-ASM stands for S-expression ASseMbly.
 
 ## How it works
 
